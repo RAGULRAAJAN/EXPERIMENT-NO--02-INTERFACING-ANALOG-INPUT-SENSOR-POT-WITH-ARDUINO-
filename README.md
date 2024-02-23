@@ -1,12 +1,12 @@
- INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
+# INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 
 
 
 
-**AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
+## AIM:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
 
-**COMPONENTS REQUIRED:**
+## COMPONENTS REQUIRED:
 1.	10 KΩPOT
 2.	1 KΩ resistor 
 3.	Arduino Uno 
@@ -16,7 +16,7 @@
 **
 
 
-**THEORY**: 
+## THEORY: 
 
 **Analog signals:**
 
@@ -48,9 +48,6 @@ CIRCUIT DIAGRAM
 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
-
-### SCHEMATIC DIAGRAM:
-![Screenshot 2024-02-23 154801](https://github.com/RAGULRAAJAN/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/147473144/98fa76ce-5ef1-4547-b7e1-e405aa76daa1)
 
 
 **PROCEDURE:**
@@ -107,8 +104,12 @@ void loop()
 ![Screenshot 2024-02-23 155338](https://github.com/RAGULRAAJAN/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/147473144/164f0b5b-8420-433a-92e2-ecae99dc95a7)
 ## OFF CONDITION:
 ![Screenshot 2024-02-23 155353](https://github.com/RAGULRAAJAN/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/147473144/78c6c176-b47a-4376-8288-4a8ddcc60714)
+
 ## CIRCUIT WITH GRAPH:
 ![Screenshot 2024-02-23 160037](https://github.com/RAGULRAAJAN/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/147473144/a4276242-2073-4a2b-83b6-4043b0ff39a3)
+
+### SCHEMATIC DIAGRAM:
+![Screenshot 2024-02-23 154801](https://github.com/RAGULRAAJAN/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/147473144/98fa76ce-5ef1-4547-b7e1-e405aa76daa1)
 
 
 
